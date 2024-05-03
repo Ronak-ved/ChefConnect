@@ -64,3 +64,4 @@
 
 6. Maintainability:
    > The Platform should be modular and well-structered allowing for easy maintainance and updates to individual components without affecting the overall system.
+***seen by hem***

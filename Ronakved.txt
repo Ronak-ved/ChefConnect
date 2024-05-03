@@ -1,0 +1,67 @@
+<< Requirement Gathering >>
+
+1. User and Chef should able to login securely.
+2. User should able to see profiles of chefs including photos,reviews and information about their specialities and experience.
+3. Chef should allow to upload videos,photos of dishes to their profile.
+4. User want clear information about the cost of service and convenient payment options.
+5. User should allow to communicate with the chefs after booking.
+6. User want a platform that offers flexible booking and scheduling options.
+7. User want the ability to provide ratings and reviews after hiring a chef.
+8. User should able to hire a chef for permantly ,for one-time or for special events. 
+9. Chef and user both the platform to be user-friendly and easy to use respectively.
+10. Chef's and User's personal data and payment details must be securely stored and protected.
+11. Users want assurance of the quality and reliability of chefs on the platform.
+12. Platform should have good performance 24*7. 
+
+<< Functional Requirements >>
+
+1. User Registration and Authentication:
+   > Chefs and Users should able to register and create account.
+   > Authentication ensures secure access to their accounts.
+
+2. Detailed Chef profiles:
+   > Provide detailed chef profiles with photos and reviews.
+   > Include the information about their specialities and experience.
+
+3. Flexible Booking and Scheduling:
+   > Offer the flexible booking and scheduling options.
+   > Allow users to easily search,find and book chef based on their availibilty and preference.
+   > Provide facility to hire a chef permantly ,for one-time or for special events.
+
+4. Transparent pricing and payment methods:
+   > Provide transparency in pricing and payment methods.
+   > Integrate secure payment gateway and automatic generation of invoice.
+   > Support various payment options.
+   
+5. Communications:
+   > Integrate In-app chat system for Communication between user and chef.
+   > Provide contact details for Communication.
+
+6. Reviews and Ratings:
+   > User should allow to give Reviews and ratings to the chefs.
+
+7. Upload Multimedia:
+   > Allow chef to upload videos and photos of dishes to their profile.
+
+<< Non-Functional Requirements >>
+
+1. Performance Time:
+   > fast response time with pages loading within the seconds.
+   > Handle a large number of users and bookings without performance degradation.
+   
+2. Security:
+   > Personal data of User's and Chef's is securely stored and protected.
+   > Ensure encrypted and secure financial transaction.
+ 
+3. Usability:
+   > The platform should have an easy to use and user-friendly interface.
+
+4. Reliability:
+   > The platform should have high availibilty with minimal downtime.
+
+5. Compatibility:
+   > The platform should be compatible with different web browser like firefox,chrome etc. 
+
+6. Maintainability:
+   > The Platform should be modular and well-structered allowing for easy maintainance and updates to individual components without affecting the overall system.
+uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuUUUUUUUUUUUUUUUUUUUUUUUUuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
